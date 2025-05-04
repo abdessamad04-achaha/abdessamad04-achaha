@@ -2,7 +2,7 @@
 
 I'm a mobile app development enthusiast passionate about building simple and useful applications using Flutter and Android.
 
-## 🌱 I want to learn
+## 🔥 Passionate About Learning
 - UI/UX Design with Figma  
 - Spring Boot & REST APIs  
 - Android Jetpack Libraries  
